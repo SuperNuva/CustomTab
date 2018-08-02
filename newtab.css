@@ -1,0 +1,13 @@
+body {
+  background-repeat: no-repeat;
+}
+
+h2 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-style: oblique;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: underline;
+  font-stretch: extra-expanded;
+  color: black
+}
