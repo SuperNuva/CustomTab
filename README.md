@@ -16,7 +16,7 @@ A simple chrome extension to achieve customized new tabs in your chrome browser.
 
 ## Author
 
-* **Tasnuva Noor** - *Initial work* - [SuperNuva](https://github.com/SuperNuva)
+* **Tasnuva Noor** - [SuperNuva](https://github.com/SuperNuva)
 
 ## License
 
