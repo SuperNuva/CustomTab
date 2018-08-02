@@ -1,8 +1,4 @@
-# Project Title
-
-CustomTab
-
-## Description
+# CustomTab
 
 A simple chrome extension to achieve customized new tabs in your chrome browser. You are welcome to download it and tweak it according to your own liking.
 
